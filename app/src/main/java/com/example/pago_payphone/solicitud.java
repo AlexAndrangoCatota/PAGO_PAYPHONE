@@ -98,7 +98,6 @@ public class solicitud extends AppCompatActivity {
                 Map<String, String> headers = new HashMap<>();
                 headers.put("Content-Type", "application/json");
                 headers.put("Accept", "application/json");
-                //headers.put("Authorization", "Bearer Ps7d5SOOe9CYIITZa-2llloFRjyXpjUFUuXW6_fcEqyRidzh2WGQOae3BOzm9yEzjPpQYcYIZLfvUsfPcqs7fsL7rUFLuExzi5MYINFlYWXBDb6NwODrbu4194_R39cGu0qOu5pO4MsCB7GyKLFH1FD1gmd9YZTLEfzgu0MjsvN1MiJBGy_2usa9OiNOuzsteO4Uh8zENzWNQhs538NGCVD_laR3-e0ApIErHZp9yCSFfGKOxi1Pr9CKaVhlUFlx8vn5Yp2J9C9yD4nk-JFCL7yYkr-9t_vaP1uEP637AUF2zbUChrUeok_gPLSZ3BKcp9zgB21gKgxywoR35_Etx9JYAJ8");
                 return headers;
             }
         };
